@@ -11,49 +11,26 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Economics & Statistics, Xiamen University, 2017
+* M.S. in Data Science (Statistics), Rutgers University, 2019
+* Ph.D candidate in Computer Science, New Jersey Institute of Technology, now
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 05/2019 - 07/2020: Data Scientist, Plymouth Rock Assurance
+  * Customer Retention Prediction, Pricing Model
+* 11/2019 - 04/2020: Research Assistant, Rutgers University
+  * Deterioration Model on Long Term Bridge Performance
+  
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+Teaching Assistant
+======
+*  2021 Spring: CS114 Intro to Computer Science II (Java)
+*  2021 Summer: CS 610 Data Structure & Algorithm
+*  2022 Fall: CS104 Computer Programming and Graphics Problems (Python)
   
-Skills
+Leadership
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* 2021 – 2022: President, ACM-W, NJIT.
+  *  Organized the event "Roundtable Conversation with Dr. Jeff Ullman, Turing Award Laureate 2020"
+* 2021 – 2022: President, Graduate Woman in Computer Society (GWiCS), NJIT.
