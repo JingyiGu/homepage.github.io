@@ -13,7 +13,7 @@ name                     : &name "Jingyi Gu"
 description              : &description "PhD Candidate at NJIT"
 url                      : https://jingyi-gu-homepage.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "JingyiGu/homepage.github.io"
+repository               : "jingyigu/homepage.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Jingyi Gu"
-  avatar           : "Fig4.png"
+  avatar           : "Fig4.jpg"
   bio              : "PhD candidate in CS, NJIT"
   location         : "Newark, NJ, US"
   employer         :
@@ -175,18 +175,18 @@ kramdown:
 
 # Collections
 collections:
-  teaching:
-    output: true
-    permalink: /:collection/:path/
+#   teaching:
+#     output: true
+#     permalink: /:collection/:path/
   publications:
     output: true
     permalink: /:collection/:path/
-  portfolio:
-    output: true
-    permalink: /:collection/:path/
-  talks:
-    output: true
-    permalink: /:collection/:path/
+#   portfolio:
+#     output: true
+#     permalink: /:collection/:path/
+#   talks:
+#     output: true
+#     permalink: /:collection/:path/
 
 
 # Defaults
