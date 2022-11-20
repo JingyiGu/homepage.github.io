@@ -11,9 +11,16 @@ redirect_from:
 
 Education
 ======
-* B.S. in Economics & Statistics, Xiamen University, 2017
-* M.S. in Data Science (Statistics), Rutgers University, 2019
-* Ph.D candidate in Computer Science, New Jersey Institute of Technology, now
+**New Jersey Institute of Technology**, 2020 - Present
+* Ph.D candidate in Computer Science
+* [FinTech Lab](https://fintechlab-njit.netlify.app), advised by [Prof. Guiling (Grace) Wang](https://web.njit.edu/~gwang/index.html)
+
+**Rutgers University, New Brunswick**, 2017 - 2019
+* M.S. in Data Science (Statistics)
+
+**Xiamen University**, 2013 - 2017
+* B.S. in Economics & Statistics
+
 
 Work experience
 ======
