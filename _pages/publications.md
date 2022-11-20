@@ -12,6 +12,6 @@ Under Review
 
 Accepted
 ======
-* [AAAI 23] Wenlu Du, Junyi Ye, **Jingyi Gu**, Jing Li, Hua Wei, Guiling Wang. "SafeLight: A Reinforcement Learning Method toward Collision-free Traffic Signal Control."
+* **[AAAI 2023]** Wenlu Du, Junyi Ye, **Jingyi Gu**, Jing Li, Hua Wei, Guiling Wang. "SafeLight: A Reinforcement Learning Method toward Collision-free Traffic Signal Control."
 
-* [IJAIA] Wei Yao*, **Jingyi Gu***, Wenlu Du*, Fadi P. Deek, Guiling Wang. "ADPP: A Novel Anomaly Detection and Privacy-Preserving Framework Using Blockchain and Neural Networks in Tokenomics." 
+* **[IJAIA]** Wei Yao*, **Jingyi Gu***, Wenlu Du*, Fadi P. Deek, Guiling Wang. "ADPP: A Novel Anomaly Detection and Privacy-Preserving Framework Using Blockchain and Neural Networks in Tokenomics." 
