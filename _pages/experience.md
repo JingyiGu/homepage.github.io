@@ -26,6 +26,7 @@ Work experience
 ======
 **Data Scientist at Plymouth Rock Assurance**, 05/2019 - 07/2020: 
 * Customer Retention Prediction, Pricing Model
+
 **Research Assistant at Rutgers University**, 11/2019 - 04/2020
 * Deterioration Model on Long Term Bridge Performance
   
