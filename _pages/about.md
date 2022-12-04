@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I’m currently a Ph.D. candidate in the department of Computer Science at [New Jersey Institute of Technology](https://www.njit.edu), advised by [Prof. Guiling (Grace) Wang](https://web.njit.edu/~gwang/). I received my M.S. degree in Data Science (Statistics track) in [Rutgers University, New Brunswick](https://newbrunswick.rutgers.edu) in 2019, and the Bachelor degree in Economic & Statistics from Xiamen University in 2017.
+I’m currently a Ph.D. candidate in the department of Computer Science at [New Jersey Institute of Technology](https://www.njit.edu), advised by [Prof. Guiling (Grace) Wang](https://web.njit.edu/~gwang/). I received my M.S. degree in Data Science (Statistics track) in [Rutgers University, New Brunswick](https://newbrunswick.rutgers.edu) in 2019, and the Bachelor degree in Economic & Statistics from [Xiamen University](https://en.xmu.edu.cn/main.htm) in 2017.
 
 Research Interest
 ======
