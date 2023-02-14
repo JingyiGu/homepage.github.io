@@ -30,6 +30,9 @@ Work experience
 **Research Assistant at Rutgers University**, 11/2019 - 04/2020
 * Deterioration Model on Long Term Bridge Performance
   
+Service
+======
+* Reviewer: TKDE
 
 Teaching Assistant
 ======
@@ -39,6 +42,6 @@ Teaching Assistant
   
 Leadership
 ======
-* 2021 – 2022: President, ACM-W, NJIT.
+* 2021 – Present: President, ACM-W, NJIT.
   *  Organized the event "Roundtable Conversation with Dr. Jeff Ullman, Turing Award Laureate 2020"
 * 2021 – 2022: President, Graduate Woman in Computer Society (GWiCS), NJIT.
