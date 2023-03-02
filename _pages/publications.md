@@ -7,14 +7,13 @@ author_profile: true
 
 Under Review
 ======
-* **Jingyi Gu**, Guiling Wang. "Learning Stock Broad-Index Trend Patterns via Domain Knowledged-Informed Generative Network."
-* **Jingyi Gu**, Sarvesh Shukla, Junyi Ye, Guiling Wang. "Deep Learning Model with VADER Sentiment Score in Stock Price Prediction." 
+* **Jingyi Gu**, Sarvesh Shukla, Junyi Ye, Ajim Uddin, Guiling Wang. "Deep Learning Model with Sentiment Score and Weekend Effect in Stock Price Prediction." 
 
 Papers
 ======
 Authors with ∗ signs contribute equally to the papers.
 
-* **Jingyi Gu**,Fadi P. Deek, Guiling Wang. "Stock Broad-Index Trend Patterns Learning via Domain Knowledge Informed Generative Network". *International Journal of Artificial Intelligence & Applications*. [[paper]](https://arxiv.org/pdf/2302.14164.pdf)
+* **Jingyi Gu**, Fadi P. Deek, Guiling Wang. "Stock Broad-Index Trend Patterns Learning via Domain Knowledge Informed Generative Network". *International Journal of Artificial Intelligence & Applications*. [[paper]](https://arxiv.org/pdf/2302.14164.pdf)
 
 * Junyi Ye, **Jingyi Gu**, Ankan Dash, Fadi P. Deek, Guiling Wang. "Prediction with Time-Series Mixer for the S\&P500 Index". *The 1st International Workshop on Big Data Analytics in Finance and Commerce, The 39th IEEE International Conference on Data Engineering Workshop (ICDEW) 2023}*.
 
