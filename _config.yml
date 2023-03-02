@@ -86,9 +86,9 @@ author:
   location         : "Newark, NJ, US"
   employer         :
 #   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-#   googlescholar    : "http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.com/citations?user=rZOW2IEAAAAJ&hl=en"
   email            : "jg95@njit.edu"
-#   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     :  "https://www.researchgate.net/profile/Jingyi-Gu-8?ev=hdr_xprf"
   uri              :
   bitbucket        :
   codepen          :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-#   github           : "academicpages"
+  github           : "https://github.com/JingyiGu"
   google_plus      :
   keybase          :
   instagram        :
