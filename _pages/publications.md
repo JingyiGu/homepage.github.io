@@ -13,7 +13,7 @@ Papers
 ======
 Authors with ∗ signs contribute equally to the papers.
 
-* **Jingyi Gu**, Fadi P. Deek, Guiling Wang. "Stock Broad-Index Trend Patterns Learning via Domain Knowledge Informed Generative Network." *International Journal of Artificial Intelligence & Applications 14(2):11-28*, March 2023. [[paper]](https://arxiv.org/pdf/2302.14164.pdf)
+* **Jingyi Gu**, Fadi P. Deek, Guiling Wang. "Stock Broad-Index Trend Patterns Learning via Domain Knowledge Informed Generative Network." *International Journal of Artificial Intelligence & Applications 14(2):11-28*, March 2023. [[paper]](https://arxiv.org/pdf/2302.14164.pdf)[[code]](https://github.com/JingyiGu/IndexGAN)
 
 * Junyi Ye, **Jingyi Gu**, Ankan Dash, Fadi P. Deek, Guiling Wang. "Prediction with Time-Series Mixer for the S&P500 Index." *The 1st International Workshop on Big Data Analytics in Finance and Commerce, The 39th IEEE International Conference on Data Engineering Workshop (ICDEW)*, 2023.
 
