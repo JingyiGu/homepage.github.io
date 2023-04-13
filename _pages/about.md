@@ -16,7 +16,7 @@ I'm interested in Applied Machine Learning and Data Mining, especially Adversari
 
 Recent News
 ======
-* 4/2022 Present two papers in 2023 IEEE 39th International Conference on Data Engineering Workshops (ICDEW) on Big Data Analytics in Finance and Commerce (BDAFC).
+* 4/2023 Present two papers in 2023 IEEE 39th International Conference on Data Engineering (ICDE) Workshops on Big Data Analytics in Finance and Commerce (BDAFC).
 * 11/2022 One paper is accepted by AAAI Conference on Artificial Intelligence (AAAI 2023).
 
 
