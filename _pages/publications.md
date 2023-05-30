@@ -5,13 +5,12 @@ permalink: /publications/
 author_profile: true
 ---
 
-Under Review
-======
-* **Jingyi Gu**, Sarvesh Shukla, Junyi Ye, Ajim Uddin, Guiling Wang. "Deep Learning Model with Sentiment Score and Weekend Effect in Stock Price Prediction." 
 
 Papers
 ======
 Authors with ∗ signs contribute equally to the papers.
+
+* **Jingyi Gu**, Sarvesh Shukla, Junyi Ye, Ajim Uddin, Guiling Wang. "Deep Learning Model with Sentiment Score and Weekend Effect in Stock Price Prediction."  *SN Business & Economics*, 2023.
 
 * **Jingyi Gu**, Fadi P. Deek, Guiling Wang. "Stock Broad-Index Trend Patterns Learning via Domain Knowledge Informed Generative Network." *International Journal of Artificial Intelligence & Applications 14(2):11-28*, March 2023. [[paper]](https://arxiv.org/pdf/2302.14164.pdf) [[code]](https://github.com/JingyiGu/IndexGAN)
 
