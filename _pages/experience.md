@@ -25,7 +25,8 @@ Education
 Work experience
 ======
 **AI/ML Research Intern at Samsung Semiconductor**, 06/2023 - Present
-
+* Graph Representation Learning
+  
 **Data Scientist at Plymouth Rock Assurance**, 05/2019 - 07/2020: 
 * Customer Retention Prediction, Pricing Model
 
