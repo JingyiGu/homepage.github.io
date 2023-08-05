@@ -88,20 +88,20 @@ author:
 #   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=rZOW2IEAAAAJ&hl=en"
   email            : "jg95@njit.edu"
-  researchgate     :  "https://www.researchgate.net/profile/Jingyi-Gu-8?ev=hdr_xprf"
-  uri              :
-  bitbucket        :
-  codepen          :
-  dribbble         :
-  flickr           :
-  facebook         :
-  foursquare       :
+  researchgate     : "https://www.researchgate.net/profile/Jingyi-Gu-8?ev=hdr_xprf"
+  # uri              :
+  # bitbucket        :
+  # codepen          :
+  # dribbble         :
+  # flickr           :
+  # facebook         :
+  # foursquare       :
   github           : "https://github.com/JingyiGu"
-  google_plus      :
-  keybase          :
-  instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
-  lastfm           :
+  # google_plus      :
+  # keybase          :
+  # instagram        :
+  # impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  # lastfm           :
   linkedin         : "https://www.linkedin.com/in/jingyi-gu/"
 #   orcid            : "http://orcid.org/yourorcidurl"
   pinterest        :
