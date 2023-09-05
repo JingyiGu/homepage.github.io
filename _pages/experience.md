@@ -24,8 +24,8 @@ Education
 
 Work experience
 ======
-**AI/ML Research Intern at Samsung Semiconductor**, 06/2023 - Present
-* Graph Representation Learning on Molecule Structures
+**AI/ML Research Intern at Samsung Display America Lab**, 06/2023 - 09/2023:
+* Molecule Representation Learning via Graph Neural Networks and TorchMD-Net
   
 **Data Scientist at Plymouth Rock Assurance**, 05/2019 - 07/2020: 
 * Customer Retention Prediction, Pricing Model
