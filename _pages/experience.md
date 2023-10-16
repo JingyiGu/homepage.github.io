@@ -21,13 +21,13 @@ redirect_from:
 
 
 ## Work experience
-* **AI/ML Research Intern at Samsung Display America Lab**, 06/2023 - 09/2023:
+* **AI/ML Research Intern, Samsung Display America Lab**, 06/2023 - 09/2023:
   * Molecule Representation Learning via Graph Neural Networks and TorchMD-Net
   
-* **Data Scientist at Plymouth Rock Assurance**, 05/2019 - 07/2020: 
+* **Data Scientist, Plymouth Rock Assurance**, 05/2019 - 07/2020: 
   * Customer Retention Prediction, Pricing Model
 
-* **Research Assistant at Rutgers University**, 11/2019 - 04/2020:
+* **Research Assistant, Rutgers University**, 11/2019 - 04/2020:
   * Deterioration Model on Long Term Bridge Performance
   
 ## Service
