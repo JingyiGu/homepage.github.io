@@ -39,7 +39,7 @@ redirect_from:
 ## Supervised Students
 * Alon Lerner, Undergraduate student at NJIT, 2023
   * Earning Call Analysis, Gap Analysis
-* Ann Maria, Master student at NJIT, 2022
+* Ann Maria Chirackal George, Master student at NJIT, 2022
   * ESG, FOMC 
 * Shaswat Dharaiya, Master student at NJIT, 2022
   * Textual Analysis from Social Media (Twitter, Reddit) for Stock Market
