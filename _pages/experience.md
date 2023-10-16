@@ -20,7 +20,7 @@ redirect_from:
   * B.S. in Economics & Statistics
 
 
-## Work experience
+## Work Experience
 * **AI/ML Research Intern, Samsung Display America Lab**, 06/2023 - 09/2023:
   * Molecule Representation Learning via Graph Neural Networks and TorchMD-Net
   
