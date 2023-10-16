@@ -8,17 +8,17 @@ redirect_from:
   - /about.html
 ---
 
-I’m currently a Ph.D. candidate in the department of Computer Science at [New Jersey Institute of Technology](https://www.njit.edu), advised by [Prof. Guiling (Grace) Wang](https://web.njit.edu/~gwang/). I received my M.S. degree in Data Science (Statistics track) in [Rutgers University, New Brunswick](https://newbrunswick.rutgers.edu) in 2019, and the Bachelor degree in Economic & Statistics from [Xiamen University](https://en.xmu.edu.cn/main.htm) in 2017.
+I’m currently a Ph.D. candidate in the Department of Computer Science at [New Jersey Institute of Technology](https://www.njit.edu), advised by [Prof. Guiling (Grace) Wang](https://web.njit.edu/~gwang/). I received my M.S. degree in Data Science (Statistics track) from [Rutgers University, New Brunswick](https://newbrunswick.rutgers.edu) in 2019, and Bachelor's degree in Economics & Statistics from [Xiamen University](https://en.xmu.edu.cn/main.htm) in 2017.
 
 Research Interest
 ======
-I'm interested in Applied Machine Learning and Data Mining, especially Adversarial Learning, Reinforcement Learning, Graph Neural Networks, and Natural Language Processing with applications to real-world scenarios (e.g. Finance, Traffic)
+I'm interested in Applied Machine Learning and Data Mining, especially Adversarial Learning, Reinforcement Learning, Graph Neural Networks, and Natural Language Processing with applications to real-world scenarios (e.g. Financial Time Series, Portfolio Management, Molecular Representation Learning, and Traffic Light Control)
 
 Recent News
 ======
 * 9/2023: Our paper "Margin Trader: A Reinforcement Learning Framework for Portfolio Management with Margin and Constraints" is accepted with **oral** presentation by 4th ACM International Conference on AI in Finance (**ICAIF 2023**).
 * 5/2023: I am glad to join **Samsung Display America Lab** as an AI/ML Research Intern this summer at San Jose, CA.
-* 4/2023: Presented two papers in IEEE 39th International Conference on Data Engineering Workshops on Big Data Analytics in Finance and Commerce (**ICDE 2023**).
+* 4/2023: Presented two papers at IEEE 39th International Conference on Data Engineering Workshops on Big Data Analytics in Finance and Commerce (**ICDE 2023**).
 * 11/2022: Our paper "SafeLight: A Reinforcement Learning Method toward Collision-free Traffic Signal Control" is accepted by AAAI Conference on Artificial Intelligence (**AAAI 2023**).
 
 
