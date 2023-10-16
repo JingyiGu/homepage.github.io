@@ -51,9 +51,10 @@ redirect_from:
   * Deep Learning with Sentiment Analysis on Stock Prediction
 
 ## Teaching Assistant
-*  2021 Spring: CS114 Intro to Computer Science II (Java)
-*  2021 Summer: CS 610 Data Structure & Algorithm
+*  2023 Fall: DS677 Deep Learning
 *  2022 Fall: CS104 Computer Programming and Graphics Problems (Python)
+*  2021 Summer: CS 610 Data Structure & Algorithm
+*  2021 Spring: CS114 Intro to Computer Science II (Java)
   
 ## Leadership
 * 2021 – Present: President, [ACM-W in NJIT Chapter](https://acmwnjit.github.io/acmw/).
