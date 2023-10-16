@@ -21,4 +21,4 @@ Authors with ∗ signs contribute equally to the papers.
 * Wenlu Du, Junyi Ye, **Jingyi Gu**, Jing Li, Hua Wei, Guiling Wang. "SafeLight: A Reinforcement Learning Method toward Collision-free Traffic Signal Control." *Proceedings of the AAAI Conference on Artificial Intelligence*, 2023. [[paper]](https://arxiv.org/pdf/2211.10871v1.pdf) [[code]](https://gitlab.com/wenlu057/traffic-safety)
 
 * Wei Yao\*, __Jingyi Gu\*__, Wenlu Du\*, Fadi P. Deek, Guiling Wang. "ADPP: A Novel Anomaly Detection and Privacy-Preserving Framework in Tokenomics." *International Journal of Artificial Intelligence & Applications 13(6):17-32*, November 2022. [[paper]](https://jingyigu.github.io/homepage.github.io//files/ADPP.pdf)
-<img src="/images/ADPP.png" width="800"/>
+<img src="/images/ADPP.png" width="600" style="vertical-align:middle"/>
