@@ -23,4 +23,4 @@ Authors with ∗ signs contribute equally to the papers.
 * Wei Yao\*, __Jingyi Gu\*__, Wenlu Du\*, Fadi P. Deek, Guiling Wang. "ADPP: A Novel Anomaly Detection and Privacy-Preserving Framework in Tokenomics." *International Journal of Artificial Intelligence & Applications 13(6):17-32*, November 2022. [[paper]](https://jingyigu.github.io/homepage.github.io//files/ADPP.pdf)
 ![adpp](/images/ADPP.png)
 
-<img src="/images/ADPP.png" width="600"  class="mx-auto"/>
+<!--<img src="/images/ADPP.png" width="600"  class="mx-auto"/>
