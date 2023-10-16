@@ -55,7 +55,7 @@ redirect_from:
 *  2021 Summer: CS 610 Data Structure & Algorithm
 *  2022 Fall: CS104 Computer Programming and Graphics Problems (Python)
   
-### Leadership
+## Leadership
 * 2021 – Present: President, [ACM-W in NJIT Chapter](https://acmwnjit.github.io/acmw/).
   *  Organized the event "Roundtable Conversation with Dr. Jeff Ullman, Turing Award Laureate 2020"
 * 2021 – 2022: President, Graduate Woman in Computer Society (GWiCS), NJIT.
