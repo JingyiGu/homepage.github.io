@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 
-### Education
+## Education
 * **New Jersey Institute of Technology**, 2020 - Present
   * Ph.D candidate in Computer Science
   * [FinTech Lab](https://fintechlab-njit.netlify.app), advised by [Prof. Guiling (Grace) Wang](https://web.njit.edu/~gwang/index.html)
@@ -20,7 +20,7 @@ redirect_from:
   * B.S. in Economics & Statistics
 
 
-### Work experience
+## Work experience
 * **AI/ML Research Intern at Samsung Display America Lab**, 06/2023 - 09/2023:
   * Molecule Representation Learning via Graph Neural Networks and TorchMD-Net
   
@@ -30,13 +30,13 @@ redirect_from:
 * **Research Assistant at Rutgers University**, 11/2019 - 04/2020:
   * Deterioration Model on Long Term Bridge Performance
   
-### Service
+## Service
 * Web Chair: [[KDD Finance Day 2023]](https://kddfinanceday.github.io)
 * PC Member: 4th ACM International Conference on AI in Finance (ICAIF) 2023
 * Presenter: The 1st International Workshop on Big Data Analytics in Finance and Commerce (BDAFC), The 39th IEEE International Conference on Data Engineering (ICDE) 2023}
 * Reviewer: TKDE
 
-### Supervised Students
+## Supervised Students
 * Alon Lerner, Undergraduate student at NJIT, 2023
   * Earning Call Analysis, Gap Analysis
 * Ann Maria, Master student at NJIT, 2022
@@ -50,7 +50,7 @@ redirect_from:
 * Sarvesh Shukla, Master student at NJIT, 2020 - 2021
   * Deep Learning with Sentiment Analysis on Stock Prediction
 
-### Teaching Assistant
+## Teaching Assistant
 *  2021 Spring: CS114 Intro to Computer Science II (Java)
 *  2021 Summer: CS 610 Data Structure & Algorithm
 *  2022 Fall: CS104 Computer Programming and Graphics Problems (Python)
