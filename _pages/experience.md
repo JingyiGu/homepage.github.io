@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 
-## Education
+### Education
 * **New Jersey Institute of Technology**, 2020 - Present
   * Ph.D candidate in Computer Science
   * [FinTech Lab](https://fintechlab-njit.netlify.app), advised by [Prof. Guiling (Grace) Wang](https://web.njit.edu/~gwang/index.html)
