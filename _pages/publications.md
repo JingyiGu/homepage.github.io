@@ -10,7 +10,7 @@ Papers
 ======
 Authors with ∗ signs contribute equally to the papers.
 
-* **Jingyi Gu**, Wenlu Du, A M Muntasir Rahman, Guiling Wang. "Margin Trader: A Reinforcement Learning Framework for Portfolio Management with Margin and Constraints." *4th ACM International Conference on AI in Finance (ICAIF)*, 2023. [[paper]](https://dl.acm.org/doi/10.1145/3604237.3626906)
+* **Jingyi Gu**, Wenlu Du, A M Muntasir Rahman, Guiling Wang. "Margin Trader: A Reinforcement Learning Framework for Portfolio Management with Margin and Constraints." *4th ACM International Conference on AI in Finance (ICAIF)*, 2023. [[paper]](https://dl.acm.org/doi/pdf/10.1145/3604237.3626906)
   
 * **Jingyi Gu**, Fadi P. Deek, Guiling Wang. "Stock Broad-Index Trend Patterns Learning via Domain Knowledge Informed Generative Network." *International Journal of Artificial Intelligence & Applications 14(2):11-28*, 2023. [[paper]](https://arxiv.org/pdf/2302.14164.pdf) [[code]](https://github.com/JingyiGu/IndexGAN)
   
