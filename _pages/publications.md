@@ -6,6 +6,10 @@ author_profile: true
 ---
 
 
+Under Review
+======
+* **Jingyi Gu**, Wenlu Du, Guiling Wang. "Risk-Aware Generative Adversarial Model for Stock Interval Construction." *IEEE Transactions on Knowledge and Data Engineering (TKDE)*.
+
 Papers
 ======
 Authors with ∗ signs contribute equally to the papers.
