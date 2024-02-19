@@ -10,7 +10,8 @@ Under Review
 ======
 * **Jingyi Gu**, Wenlu Du, Guiling Wang. "Risk-Aware Generative Adversarial Model for Stock Interval Construction." *IEEE Transactions on Knowledge and Data Engineering (TKDE)*.
 
-* Junyi Ye\*, Bhaskar Goswami\*, __Jingyi Gu\*__, Ajim Uddin, Guiling Wang. "From Factor Model to AI: Machine Learning Paradigm Reshaping Empirical Asset Pricing." *IJCAI 2024*.
+* Junyi Ye\*, Bhaskar Goswami\*, __Jingyi Gu\*__, Ajim Uddin, Guiling Wang. "From Factor Model to AI: Machine Learning Paradigm Reshaping Empirical Asset Pricing." *International Joint Conference
+on Artificial  Intelligence (IJCAI)*, 2024.
 
 Preprint and Papers
 ======
@@ -21,7 +22,7 @@ Authors with ∗ signs contribute equally to the papers.
 
 
 * Ankan Dash, **Jingyi Gu**, Guiling Wang. "HI-GAN: Hierarchical Inpainting GAN with Auxiliary Inputs for Combined RGB and Depth Inpainting." *arXiv:2402.10334*, 2024. [[paper]](https://arxiv.org/abs/2402.10334)
-* 
+
 
 * Ankan Dash, **Jingyi Gu**, Guiling Wang, Nirwan Ansari. "Self-Supervised Learning for User Localization." *International Conference on Computing, Networking and Communications (ICNC)*, 2024.
 
