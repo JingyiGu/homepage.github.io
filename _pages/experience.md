@@ -34,7 +34,7 @@ redirect_from:
 * Web Chair: [KDD Finance Day 2023](https://kddfinanceday.github.io)
 * PC Member: 4th ACM International Conference on AI in Finance (ICAIF) 2023
 * Presenter: The 1st International Workshop on Big Data Analytics in Finance and Commerce (BDAFC), The 39th IEEE International Conference on Data Engineering (ICDE) 2023}
-* Reviewer: TKDE
+* Reviewer: KDD, TKDE, PAKDD
 
 ## Supervised Students
 * Alon Lerner, Undergraduate student at NJIT, 2023
