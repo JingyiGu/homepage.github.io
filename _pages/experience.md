@@ -51,6 +51,7 @@ redirect_from:
   * Deep Learning with Sentiment Analysis on Stock Prediction
 
 ## Teaching Assistant
+*  2024 Spring: DS675 Machine Learning
 *  2023 Fall: DS677 Deep Learning
 *  2022 Fall: CS104 Computer Programming and Graphics Problems (Python)
 *  2021 Summer: CS 610 Data Structure & Algorithm
