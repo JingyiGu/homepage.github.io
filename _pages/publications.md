@@ -6,23 +6,16 @@ author_profile: true
 ---
 
 
-Under Review
-======
-* **Jingyi Gu**, Wenlu Du, Guiling Wang. "Risk-Aware Generative Adversarial Model for Stock Interval Construction." *IEEE Transactions on Knowledge and Data Engineering (TKDE)*.
-
-* Junyi Ye\*, Bhaskar Goswami\*, __Jingyi Gu\*__, Ajim Uddin, Guiling Wang. "From Factor Model to AI: Machine Learning Paradigm Reshaping Empirical Asset Pricing." *International Joint Conference
-on Artificial  Intelligence (IJCAI)*, 2024.
-
 Preprint and Papers
 ======
 Authors with ∗ signs contribute equally to the papers.
 
 
-* **Jingyi Gu**, Wenlu Du, Guiling Wang. "RAGIC: Risk-Aware Generative Adversarial Model for Stock Interval Construction." *arXiv:2402.10760*, 2024. [[paper]](https://arxiv.org/abs/2402.10760)
-
+* **Jingyi Gu**, Wenlu Du, Guiling Wang. "RAGIC: Risk-Aware Generative Adversarial Model for Stock Interval Construction." *arXiv:2402.10760*, (Under review of IEEE Transactions on Knowledge and Data Engineering (TKDE)), 2024. [[paper]](https://arxiv.org/abs/2402.10760)
 
 * Ankan Dash, **Jingyi Gu**, Guiling Wang. "HI-GAN: Hierarchical Inpainting GAN with Auxiliary Inputs for Combined RGB and Depth Inpainting." *arXiv:2402.10334*, 2024. [[paper]](https://arxiv.org/abs/2402.10334)
 
+* Junyi Ye\*, Bhaskar Goswami\*, __Jingyi Gu\*__, Ajim Uddin, Guiling Wang. "From Factor Model to AI: Machine Learning Paradigm Reshaping Empirical Asset Pricing." *arXiv:2403.06779*, (Under review of International Joint Conference on Artificial  Intelligence (IJCAI)), 2024. [[paper]](https://arxiv.org/pdf/2403.06779.pdf)
 
 * Ankan Dash, **Jingyi Gu**, Guiling Wang, Nirwan Ansari. "Self-Supervised Learning for User Localization." *International Conference on Computing, Networking and Communications (ICNC)*, 2024.
 
