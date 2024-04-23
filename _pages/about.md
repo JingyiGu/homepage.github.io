@@ -16,7 +16,7 @@ I'm interested in Applied Machine Learning and Data Mining, especially Adversari
 
 Recent News
 ======
-& 03/2024: I am glad to join **Regeneron Genetics Center** as an PhD Intern at Clinical Informatics this summer at Tarrytown, NJ.
+* 03/2024: I am glad to join **Regeneron Genetics Center** as an PhD Intern at Clinical Informatics this summer at Tarrytown, NJ.
 * 11/2023: Our paper "Self-Supervised Learning for User Localization" is accepted by International Conference on Computing, Networking and Communications (**ICNC 2024**).
 * 09/2023: Our paper "Margin Trader: A Reinforcement Learning Framework for Portfolio Management with Margin and Constraints" is accepted with **oral** presentation by 4th ACM International Conference on AI in Finance (**ICAIF 2023**).
 * 05/2023: I am glad to join **Samsung Display America Lab** as an AI/ML Research Intern this summer at San Jose, CA.
