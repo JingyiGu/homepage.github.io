@@ -21,6 +21,9 @@ redirect_from:
 
 
 ## Work Experience
+* **PhD Intern, Clinical Informatics, Regeneron Genetics Center**, 05/2024 - 08/2024:
+  * LLM architecture on EHR
+  
 * **AI/ML Research Intern, Samsung Display America Lab**, 06/2023 - 09/2023:
   * Molecule Representation Learning via Graph Neural Networks and TorchMD-Net
   
@@ -31,7 +34,7 @@ redirect_from:
   * Deterioration Model on Long Term Bridge Performance
   
 ## Service
-* Web Chair: [KDD Finance Day 2023](https://kddfinanceday.github.io)
+* Web Chair: [5th ACM International Conference on AI in Finance (ICAIF) 2024](https://ai-finance.org), [KDD Finance Day 2023](https://kddfinanceday.github.io)
 * PC Member: 4th ACM International Conference on AI in Finance (ICAIF) 2023
 * Presenter: The 1st International Workshop on Big Data Analytics in Finance and Commerce (BDAFC), The 39th IEEE International Conference on Data Engineering (ICDE) 2023}
 * Reviewer: KDD, TKDE, PAKDD
