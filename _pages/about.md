@@ -12,7 +12,7 @@ I’m currently a Ph.D. candidate in the Department of Computer Science at [New 
 
 Research Interest
 ======
-I'm interested in Applied Machine Learning and Data Mining, especially Adversarial Learning, Reinforcement Learning, Graph Neural Networks, and Natural Language Processing with applications to real-world scenarios (e.g. Financial Time Series, Portfolio Management, Molecular Representation Learning, Computer Vision, and Traffic Light Control)
+I'm interested in Applied Machine Learning and Data Mining, especially Generative Models, Reinforcement Learning, Graph Neural Networks, and Natural Language Processing with applications to real-world scenarios (e.g. Financial Time Series, Portfolio Management, Molecular Representation Learning, Computer Vision, and Traffic Light Control)
 
 Recent News
 ======
