@@ -16,7 +16,8 @@ I'm interested in Applied Machine Learning and Data Mining, especially Generativ
 
 Recent News
 ======
-* 05/2024: Our paper "HierGAN: GAN-Based Hierarchical Model for Combined RGB and Depth Inpainting" is accepted by IEEE / CVF Computer Vision and Pattern Recognition Conference Workshop on Computer Vision in the Wild 2024 (**CVPR'24 CVinW Workshop**).
+* 06/2024: I am glad to be the Web Chair of 5th ACM Conference on AI in Finance ([**ICAIF 2024**](https://ai-finance.org)).
+* 05/2024: Our paper "HierGAN: GAN-Based Hierarchical Model for Combined RGB and Depth Inpainting" is accepted by IEEE / CVF Computer Vision and Pattern Recognition Conference Workshop on Computer Vision in the Wild 2024 ([**CVPR'24 CVinW Workshop**](https://computer-vision-in-the-wild.github.io/cvpr-2024/)).
 * 03/2024: I am glad to join **Regeneron Genetics Center** as an PhD Intern at Clinical Informatics this summer at Tarrytown, NY.
 * 11/2023: Our paper "Self-Supervised Learning for User Localization" is accepted by International Conference on Computing, Networking and Communications (**ICNC 2024**).
 * 09/2023: Our paper "Margin Trader: A Reinforcement Learning Framework for Portfolio Management with Margin and Constraints" is accepted with **oral** presentation by 4th ACM International Conference on AI in Finance (**ICAIF 2023**).
