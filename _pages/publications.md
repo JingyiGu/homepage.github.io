@@ -10,9 +10,13 @@ Preprint and Papers
 ======
 Authors with ∗ signs contribute equally to the papers.
 
-* Ankan Dash, **Jingyi Gu**, Guiling Wang. "HierGAN: GAN-Based Hierarchical Model for Combined RGB and Depth Inpainting." *IEEE / CVF Computer Vision and Pattern Recognition Conference Workshop on Computer Vision in the Wild 2024 (CVPR’24 CVinW Workshop)*. 
 
 * **Jingyi Gu**, Wenlu Du, Guiling Wang. "RAGIC: Risk-Aware Generative Adversarial Model for Stock Interval Construction." *arXiv:2402.10760*, (Under review of IEEE Transactions on Knowledge and Data Engineering (TKDE)), 2024. [[paper]](https://arxiv.org/abs/2402.10760)
+
+
+* Ankan Dash, **Jingyi Gu**, Guiling Wang. "HierGAN: GAN-Based Hierarchical Model for Combined RGB and Depth Inpainting." *IEEE / CVF Computer Vision and Pattern Recognition Conference Workshop on Computer Vision in the Wild 2024 (CVPR’24 CVinW Workshop)*. 
+
+* Wei Yao, Wenlu Du, **Jingyi Gu**, Junyi Ye, Fadi P. Deek, Guiling Wang. "Establishing a Baseline for Evaluating Blockchain-Based Self-Sovereign Identity Systems: A Systematic Approach to Assess Capability, Compatibility, and Interoperability." *6th Blockchain and Internet of Things Conference (BIOTC) 2024*.
 
 * Junyi Ye\*, Bhaskar Goswami\*, __Jingyi Gu\*__, Ajim Uddin, Guiling Wang. "From Factor Model to AI: Machine Learning Paradigm Reshaping Empirical Asset Pricing." *arXiv:2403.06779*, (Under review of International Joint Conference on Artificial  Intelligence (IJCAI)), 2024. [[paper]](https://arxiv.org/pdf/2403.06779.pdf)
 
