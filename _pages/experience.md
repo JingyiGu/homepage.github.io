@@ -21,8 +21,10 @@ redirect_from:
 
 
 ## Work Experience
+* **Reaearch Intern, NEC Labs**, 09/2024 - Present:
+  * LLM on flowchart understanding and Question Answering Assistant
 * **PhD Intern, Clinical Informatics, Regeneron Genetics Center**, 05/2024 - 08/2024:
-  * LLM architecture on EHR
+  * Machine learning models on human disease and phenotype detection
   
 * **AI/ML Research Intern, Samsung Display America Lab**, 06/2023 - 09/2023:
   * Molecule Representation Learning via Graph Neural Networks and TorchMD-Net
