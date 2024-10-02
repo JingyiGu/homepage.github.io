@@ -23,7 +23,7 @@ Authors with ∗ signs contribute equally to the papers.
 
 * Wei Yao, Wenlu Du, **Jingyi Gu**, Junyi Ye, Fadi P. Deek, Guiling Wang. "Establishing a Baseline for Evaluating Blockchain-Based Self-Sovereign Identity Systems: A Systematic Approach to Assess Capability, Compatibility, and Interoperability." *6th Blockchain and Internet of Things Conference (BIOTC) 2024*.
 
-* Junyi Ye\*, Bhaskar Goswami\*, __Jingyi Gu\*__, Ajim Uddin, Guiling Wang. "From Factor Model to AI: Machine Learning Paradigm Reshaping Empirical Asset Pricing." *arXiv:2403.06779*, (Under review of International Joint Conference on Artificial  Intelligence (IJCAI)), 2024. [[paper]](https://arxiv.org/pdf/2403.06779.pdf)
+* Junyi Ye\*, Bhaskar Goswami\*, __Jingyi Gu\*__, Ajim Uddin, Guiling Wang. "From Factor Model to AI: Machine Learning Paradigm Reshaping Empirical Asset Pricing." *arXiv:2403.06779*, 2024. [[paper]](https://arxiv.org/pdf/2403.06779.pdf)
 
 * Ankan Dash, **Jingyi Gu**, Guiling Wang, Nirwan Ansari. "Self-Supervised Learning for User Localization." *International Conference on Computing, Networking and Communications (ICNC)*, 2024.
 
