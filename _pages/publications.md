@@ -11,6 +11,11 @@ Preprint and Papers
 Authors with ∗ signs contribute equally to the papers.
 
 
+* __Jingyi Gu\*__, Junyi Ye\*, Guiling Wang, Wenpeng Yin "Adaptive and Explainable Margin Trading via Large Language Models on Portfolio Management." *5th ACM International Conference on AI in Finance (ICAIF)*, 2024.
+
+* __Jingyi Gu\*__, Junyi Ye\*, Ajim Uddin, Guiling Wang. "DySTAGE: Dynamic Graph Representation Learning for Asset Pricing via Spatio-Temporal Attention and Graph Encoding." *5th ACM International Conference on AI in Finance (ICAIF)*, 2024.
+
+
 * **Jingyi Gu**, Wenlu Du, Guiling Wang. "RAGIC: Risk-Aware Generative Adversarial Model for Stock Interval Construction." *arXiv:2402.10760*, (Under review of IEEE Transactions on Knowledge and Data Engineering (TKDE)), 2024. [[paper]](https://arxiv.org/abs/2402.10760)
 
 
