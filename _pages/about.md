@@ -16,6 +16,7 @@ I'm interested in Applied Machine Learning and Data Mining, especially Generativ
 
 Recent News
 ======
+* 10/2024: Two papers are accepted by 5th ACM International Conference on AI in Finance (**ICAIF 2024**).
 * 09/2024: I am glad to join the **NEC Labs America** as a Research Intern at Princeton, NJ.
 * 06/2024: I am glad to be the Web Chair of 5th ACM Conference on AI in Finance ([**ICAIF 2024**](https://ai-finance.org)).
 * 05/2024: Our paper "HierGAN: GAN-Based Hierarchical Model for Combined RGB and Depth Inpainting" is accepted by IEEE / CVF Computer Vision and Pattern Recognition Conference Workshop on Computer Vision in the Wild 2024 ([**CVPR'24 CVinW Workshop**](https://computer-vision-in-the-wild.github.io/cvpr-2024/)).
