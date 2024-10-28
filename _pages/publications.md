@@ -6,8 +6,7 @@ author_profile: true
 ---
 
 
-Preprint and Papers
-======
+## Preprint and Papers
 Authors with ∗ signs contribute equally to the papers.
 
 
