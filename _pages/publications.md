@@ -12,7 +12,7 @@ Authors with ∗ signs contribute equally to the papers.
 
 * __Jingyi Gu\*__, Junyi Ye\*, Guiling Wang, Wenpeng Yin "Adaptive and Explainable Margin Trading via Large Language Models on Portfolio Management." *5th ACM International Conference on AI in Finance (ICAIF)*, 2024.
 
-* __Jingyi Gu\*__, Junyi Ye\*, Ajim Uddin, Guiling Wang. "DySTAGE: Dynamic Graph Representation Learning for Asset Pricing via Spatio-Temporal Attention and Graph Encoding." *5th ACM International Conference on AI in Finance (ICAIF)*, 2024.
+* __Jingyi Gu\*__, Junyi Ye\*, Ajim Uddin, Guiling Wang. "DySTAGE: Dynamic Graph Representation Learning for Asset Pricing via Spatio-Temporal Attention and Graph Encoding." *5th ACM International Conference on AI in Finance (ICAIF)*, 2024. [[paper]](https://dl.acm.org/doi/pdf/10.1145/3677052.3698680) [[code]](https://github.com/JingyiGu/DySTAGE) [[slides]](https://jingyigu.github.io/homepage.github.io//files/DySTAGE.pdf)
 
 * Junyi Ye, **Jingyi Gu**, Xinyun Zhao, Wenpeng Yin, Guiling Wang. " Assessing the Creativity
 of LLMs in Proposing Novel Solutions to Mathematical Problems." *arXiv:2410.18336*, 2024. [[paper]](https://arxiv.org/pdf/2410.18336) 
