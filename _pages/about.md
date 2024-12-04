@@ -11,7 +11,7 @@ redirect_from:
 I’m currently a Ph.D. candidate in the Department of Computer Science at [New Jersey Institute of Technology](https://www.njit.edu), advised by [Prof. Guiling (Grace) Wang](https://web.njit.edu/~gwang/). I received my M.S. degree in Data Science (Statistics track) from [Rutgers University, New Brunswick](https://newbrunswick.rutgers.edu) in 2019, and Bachelor's degree in Economics & Statistics from [Xiamen University](https://en.xmu.edu.cn/main.htm) in 2017.
 
 ## Research Interest
-I'm interested in Applied Machine Learning and Data Mining, especially Generative Models, Reinforcement Learning, Graph Neural Networks, and Natural Language Processing with applications to real-world scenarios (e.g. Financial Time Series, Portfolio Management, Molecular Representation Learning, Computer Vision, and Traffic Light Control)
+I'm interested in Applied Machine Learning, especially Large Language Models (LLMs), Generative Models (GenAI), Reinforcement Learning (RL), and Graph Neural Networks (GNN) with applications to real-world scenarios (Finance, Computer Vision, Traffic, Material) , such as Portfolio Management, Visual Understanding, Time Series Forecasting, and Molecular Representation Learning, aiming to leverage advanced AI techniques to solve complex real-world challenges.
 
 ## Recent News
 * 10/2024: Two papers are accepted with **oral** presentation by 5th ACM International Conference on AI in Finance (**ICAIF 2024**).
