@@ -13,7 +13,7 @@ Authors with ∗ signs contribute equally to the papers.
 * **Jingyi Gu**, Wenlu Du, Guiling Wang. "RAGIC: Risk-Aware Generative Adversarial Model for Stock Interval Construction." *arXiv:2402.10760*, *IEEE Transactions on Knowledge and Data Engineering (TKDE)*, 2025. [[paper]](https://arxiv.org/abs/2402.10760)
 
 * Junyi Ye, **Jingyi Gu**, Xinyun Zhao, Wenpeng Yin, Guiling Wang. " Assessing the Creativity
-of LLMs in Proposing Novel Solutions to Mathematical Problems." *AAAI Conference on Artificial Intelligence (AAAI 2025)*. [[paper]](https://arxiv.org/pdf/2410.18336)
+of LLMs in Proposing Novel Solutions to Mathematical Problems." *AAAI Conference on Artificial Intelligence (AAAI)*, 2025. [[paper]](https://arxiv.org/pdf/2410.18336)
 
 
 * __Jingyi Gu\*__, Junyi Ye\*, Guiling Wang, Wenpeng Yin "Adaptive and Explainable Margin Trading via Large Language Models on Portfolio Management." *5th ACM International Conference on AI in Finance (ICAIF)*, 2024. [[paper]](https://dl.acm.org/doi/pdf/10.1145/3677052.3698681) [[code]](https://github.com/JingyiGu/Adaptive-and-Explainable-Margin-Trading-via-LLM-and-RL/) [[slides]](https://jingyigu.github.io/homepage.github.io//files/Adaptive%20and%20Explainable%20Margin%20Trading%20via%20LLM%20and%20RL.pdf)
