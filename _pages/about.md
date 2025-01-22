@@ -15,7 +15,7 @@ I'm interested in Applied Machine Learning, especially Large Language Models (LL
 
 ## Recent News
 * 01/2025: Our paper "RAGIC: Risk-Aware Generative Framework for Stock Interval Construction" is accepted by Transactions on Knowledge and Data Engineering (**TKDE**).
-* 12/2024: Our paper "Assessing the Creativity of LLMs in Mathematical Problem Solving" is accepted by AAAI Conference on Artificial Intelligence (**AAAI 2025**).
+* 12/2024: Our paper "Assessing the Creativity of LLMs in Mathematical Problem Solving" is accepted with **oral** presentation by AAAI Conference on Artificial Intelligence (**AAAI 2025**).
 * 10/2024: Two papers are accepted with **oral** presentation by 5th ACM International Conference on AI in Finance (**ICAIF 2024**).
 * 09/2024: I am glad to join the **NEC Labs America** as a Research Intern at Princeton, NJ.
 * 06/2024: I am glad to be the Web Chair of 5th ACM Conference on AI in Finance ([**ICAIF 2024**](https://ai-finance.org)).
