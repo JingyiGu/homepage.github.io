@@ -7,10 +7,8 @@ author_profile: true
 
 
 ## Preprint and Papers
-Authors with ∗ signs contribute equally to the papers.
 
-
-* **Jingyi Gu**, Wenlu Du, Guiling Wang. "RAGIC: Risk-Aware Generative Adversarial Model for Stock Interval Construction." *arXiv:2402.10760*, *IEEE Transactions on Knowledge and Data Engineering (TKDE)*, 2025. [[paper]](https://arxiv.org/abs/2402.10760)
+* **Jingyi Gu**, Wenlu Du, Guiling Wang. "RAGIC: Risk-Aware Generative Adversarial Model for Stock Interval Construction." *IEEE Transactions on Knowledge and Data Engineering (TKDE)*, 2025. [[paper]](https://ieeexplore.ieee.org/abstract/document/10885039)
 
 * Junyi Ye, **Jingyi Gu**, Xinyun Zhao, Wenpeng Yin, Guiling Wang. " Assessing the Creativity
 of LLMs in Proposing Novel Solutions to Mathematical Problems." *AAAI Conference on Artificial Intelligence (AAAI)*, 2025. [[paper]](https://arxiv.org/pdf/2410.18336) [[code]](https://github.com/JingyiGu/CreativeMath)
