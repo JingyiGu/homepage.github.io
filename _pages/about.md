@@ -13,6 +13,7 @@ I’m currently a Ph.D. candidate in the Department of Computer Science at [New 
 ## Research Interest
 - Expertise in advanced AI techniques such as Large Language Models (LLMs), Generative Models
 (GenAI), Reinforcement Learning (RL), Graph Neural Networks (GNNs), and Natural Language Processing (NLP).
+
 – Experienced in building scalable Machine Learning solutions to solve complex real-world problems, including visual understanding and question answering, time series forecasting and portfolio management in finance, and molecular representation learning.
 
 
