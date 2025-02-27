@@ -11,7 +11,7 @@ author_profile: true
 * **Jingyi Gu**, Wenlu Du, Guiling Wang. "RAGIC: Risk-Aware Generative Adversarial Model for Stock Interval Construction." *IEEE Transactions on Knowledge and Data Engineering (TKDE)*, 2025. [[paper]](https://ieeexplore.ieee.org/abstract/document/10885039) [[code]](https://github.com/JingyiGu/RAGIC)
 
 * Junyi Ye, **Jingyi Gu**, Xinyun Zhao, Wenpeng Yin, Guiling Wang. " Assessing the Creativity
-of LLMs in Proposing Novel Solutions to Mathematical Problems." *AAAI Conference on Artificial Intelligence (AAAI)*, 2025. [[paper]](https://arxiv.org/pdf/2410.18336) [[code]](https://github.com/JingyiGu/CreativeMath) [[slides]](https://github.com/JingyiGu/homepage.github.io//files/AAAI%20Presentation.pptx) [[poster]](https://github.com/JingyiGu/homepage.github.io//files/AAAI%20Poster.pdf)
+of LLMs in Proposing Novel Solutions to Mathematical Problems." *AAAI Conference on Artificial Intelligence (AAAI)*, 2025. [[paper]](https://arxiv.org/pdf/2410.18336) [[code]](https://github.com/JingyiGu/CreativeMath) [[slides]](https://jingyigu.github.io/homepage.github.io//files/AAAI%20Presentation.pptx) [[poster]](https://jingyigu.github.io/homepage.github.io//files/AAAI%20Poster.pdf)
 
 
 * __Jingyi Gu\*__, Junyi Ye\*, Guiling Wang, Wenpeng Yin "Adaptive and Explainable Margin Trading via Large Language Models on Portfolio Management." *5th ACM International Conference on AI in Finance (ICAIF)*, 2024. [[paper]](https://dl.acm.org/doi/pdf/10.1145/3677052.3698681) [[code]](https://github.com/JingyiGu/Adaptive-and-Explainable-Margin-Trading-via-LLM-and-RL/) [[slides]](https://jingyigu.github.io/homepage.github.io//files/Adaptive%20and%20Explainable%20Margin%20Trading%20via%20LLM%20and%20RL.pdf)
