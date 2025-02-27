@@ -11,7 +11,10 @@ redirect_from:
 I’m currently a Ph.D. candidate in the Department of Computer Science at [New Jersey Institute of Technology](https://www.njit.edu), advised by [Prof. Guiling (Grace) Wang](https://web.njit.edu/~gwang/). I received my M.S. degree in Data Science (Statistics track) from [Rutgers University, New Brunswick](https://newbrunswick.rutgers.edu) in 2019, and Bachelor's degree in Economics & Statistics from [Xiamen University](https://en.xmu.edu.cn/main.htm) in 2017.
 
 ## Research Interest
-I'm interested in Applied Machine Learning, especially Large Language Models (LLMs), Generative Models (GenAI), Reinforcement Learning (RL), and Graph Neural Networks (GNN) with applications to real-world scenarios (Finance, Computer Vision, Traffic, Material) , such as Portfolio Management, Visual Understanding, Time Series Forecasting, and Molecular Representation Learning, aiming to leverage advanced AI techniques to solve complex real-world challenges.
+- Expertise in advanced AI techniques such as Large Language Models (LLMs), Generative Models
+(GenAI), Reinforcement Learning (RL), Graph Neural Networks (GNNs), and Natural Language Processing (NLP).
+– Experienced in building scalable Machine Learning solutions to solve complex real-world problems, including visual understanding and question answering, time series forecasting and portfolio management in finance, and molecular representation learning.
+
 
 ## Recent News
 * 01/2025: Our paper "RAGIC: Risk-Aware Generative Framework for Stock Interval Construction" is accepted by Transactions on Knowledge and Data Engineering (**TKDE**).
