@@ -18,7 +18,7 @@ I’m currently a Ph.D. candidate in the Department of Computer Science at [New 
 
 ## Recent News
 * 04/2025: Our paper "Eye-See-You: Reverse Pass-Through VR and Head Avatars" is accepted by International Joint Conference on Artificial Intelligence (**IJCAI**) Special Track on AI4Tech.
-* 03/2025: I'm glad to be nominated to represent NJIT in the Bell Labs PhD Student Competition and will give a presentation on our work. 
+* 03/2025: I'm glad to be nominated to represent NJIT in the Nokia Bell Labs Open Day for 100-year anniversary and will give a presentation on our work. 
 * 01/2025: Our paper "RAGIC: Risk-Aware Generative Framework for Stock Interval Construction" is accepted by Transactions on Knowledge and Data Engineering (**TKDE**).
 * 12/2024: Our paper "Assessing the Creativity of LLMs in Mathematical Problem Solving" is accepted with **oral** presentation by AAAI Conference on Artificial Intelligence (**AAAI 2025**).
 * 10/2024: Two papers are accepted with **oral** presentation by 5th ACM International Conference on AI in Finance (**ICAIF 2024**).
