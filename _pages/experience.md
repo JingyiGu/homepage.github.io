@@ -23,7 +23,7 @@ redirect_from:
 ## Work Experience
 * **Applied Scientist, Amazon**, 06/2025 - Present.
   * Machine learning models on brand brilliance
-* **Reaearch Intern, NEC Labs**, 09/2024 - 03/2025:
+* **Research Intern, NEC Labs**, 09/2024 - 03/2025:
   * LLM on flowchart understanding and Question Answering Assistant
 * **PhD Intern, Clinical Informatics, Regeneron Genetics Center**, 05/2024 - 08/2024:
   * Machine learning models on human disease and phenotype detection
