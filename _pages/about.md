@@ -7,8 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
-I’m currently a Ph.D. candidate in the Department of Computer Science at [New Jersey Institute of Technology](https://www.njit.edu), advised by [Prof. Guiling (Grace) Wang](https://web.njit.edu/~gwang/). I received my M.S. degree in Data Science (Statistics track) from [Rutgers University, New Brunswick](https://newbrunswick.rutgers.edu) in 2019, and Bachelor's degree in Economics & Statistics from [Xiamen University](https://en.xmu.edu.cn/main.htm) in 2017.
+I'm currently an Applied Scientist at Amazon Ads. I recently completed my Ph.D. in Computer Science at [New Jersey Institute of Technology](https://www.njit.edu), where I was advised by [Prof. Guiling (Grace) Wang](https://web.njit.edu/~gwang/). Prior to that, I earned an M.S. in Data Science (Statistics track) from [Rutgers University, New Brunswick](https://newbrunswick.rutgers.edu) in 2019, and a Bachelor's degree in Economics & Statistics from [Xiamen University](https://en.xmu.edu.cn/main.htm) in 2017.
 
 ## Research Interest
 * Expertise in advanced AI techniques such as Large Language Models (LLMs), Generative Models
@@ -17,6 +16,8 @@ I’m currently a Ph.D. candidate in the Department of Computer Science at [New 
 
 
 ## Recent News
+* 06/2025: I am glad to join **Amazon** as an Applied Scientist at New York, NY.
+* 05/2025: I have successfully defended my dissertation "Robust AI Solutions For Financial Markets Through Generative Modeling, Dynamic Graph Learning, and Reinforcement-Based Portfolio Optimization."
 * 04/2025: Our paper "Eye-See-You: Reverse Pass-Through VR and Head Avatars" is accepted by International Joint Conference on Artificial Intelligence (**IJCAI**) Special Track on AI4Tech.
 * 03/2025: I'm glad to be nominated to represent NJIT in the Nokia Bell Labs Open Day for 100-year anniversary and will give a presentation on our work. 
 * 01/2025: Our paper "RAGIC: Risk-Aware Generative Framework for Stock Interval Construction" is accepted by Transactions on Knowledge and Data Engineering (**TKDE**).
