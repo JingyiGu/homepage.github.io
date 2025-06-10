@@ -9,7 +9,7 @@ redirect_from:
 
 
 ## Education
-* **New Jersey Institute of Technology**, 2020 - Present
+* **New Jersey Institute of Technology**, 2020 - 2025
   * Ph.D candidate in Computer Science
   * [FinTech Lab](https://fintechlab-njit.netlify.app), advised by [Prof. Guiling (Grace) Wang](https://web.njit.edu/~gwang/index.html)
 
@@ -21,7 +21,9 @@ redirect_from:
 
 
 ## Work Experience
-* **Reaearch Intern, NEC Labs**, 09/2024 - Present:
+* **Applied Scientist, Amazon**, 06/2025 - Present.
+  * Machine learning models on brand brilliance
+* **Reaearch Intern, NEC Labs**, 09/2024 - 03/2025:
   * LLM on flowchart understanding and Question Answering Assistant
 * **PhD Intern, Clinical Informatics, Regeneron Genetics Center**, 05/2024 - 08/2024:
   * Machine learning models on human disease and phenotype detection
