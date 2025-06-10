@@ -8,6 +8,8 @@ author_profile: true
 
 ## Preprint and Papers
 
+* Ankan Dash, **Jingyi Gu**, Guiling Wang. "Eye-See-You: Reverse Pass-Through VR and Head Avatars." *International Joint Conference on Artificial Intelligence (IJCAI) Special Track on AI4Tech*, 2025. [[paper]](https://arxiv.org/abs/2505.18869)
+  
 * **Jingyi Gu**, Wenlu Du, Guiling Wang. "RAGIC: Risk-Aware Generative Adversarial Model for Stock Interval Construction." *IEEE Transactions on Knowledge and Data Engineering (TKDE)*, 2025. [[paper]](https://ieeexplore.ieee.org/abstract/document/10885039) [[code]](https://github.com/JingyiGu/RAGIC)
 
 * Junyi Ye, **Jingyi Gu**, Xinyun Zhao, Wenpeng Yin, Guiling Wang. " Assessing the Creativity
